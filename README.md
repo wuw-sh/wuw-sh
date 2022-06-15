@@ -6,8 +6,11 @@
 I am a programmer from Thailand.
 
 - ⚡ My name is pain or top
-- 💻 I'm coding for minecraft pocket edition
-- 📗 Xbox Id : `wuw6248Pain`
+- 🍉 Age : 15 Year
+- 👦 Gender : male
+- 👨‍🎓 Grade : secondary high school 4
+- ⭐ Hobby : Coding & ETC.
+- 📗 Xbox Id : `wuwShPain`
 
 ---
 
