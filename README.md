@@ -1,7 +1,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"   alt=""/></p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=wuw6248&style=flat-square&color=blue" alt=""></p>
 
-### &nbsp;About Me :
+### &nbsp;About Me 👑 :
 
 I am a programmer from Thailand.
 
