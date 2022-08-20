@@ -1,6 +1,6 @@
 ## &nbsp;_About Me 👑_
 
-### <img src="https://imgs.search.brave.com/xTQ29gBRF9roy2bvb10t8iUT96qFYmNsXuM09lrHM34/rs:fit:600:600:1/g:ce/aHR0cHM6Ly93d3cu/Y2xrZXIuY29tL2Ns/aXBhcnRzL1MvaC9G/L3EvYy9EL2luZm8t/aGkucG5n" title="Omlet Arcade" alt="Omlet Arcade" width="35" height="35"/>&nbsp; &nbsp;Informations :
+### <img src="https://imgs.search.brave.com/xTQ29gBRF9roy2bvb10t8iUT96qFYmNsXuM09lrHM34/rs:fit:600:600:1/g:ce/aHR0cHM6Ly93d3cu/Y2xrZXIuY29tL2Ns/aXBhcnRzL1MvaC9G/L3EvYy9EL2luZm8t/aGkucG5n" title="Informations" alt="Informations" width="35" height="35"/>&nbsp; &nbsp;Informations :
   **I am a TypeScript Developer from Thailand.**
 - 💳 Name : `pain` or `top`
 - ⏳ Age : `15`
