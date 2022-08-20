@@ -3,7 +3,7 @@
 
 ### &nbsp;About Me 👑 :
 
-I am a programmer from Thailand.
+I am a TypeScript Developer from Thailand.
 
 - ⚡ My name is pain or top
 - 🍉 Age : 15 Year
