@@ -7,7 +7,7 @@ I am a TypeScript Developer from Thailand.
 - 👦 Gender : `male`
 - 👨‍🎓 Grade : `secondary high school 4`
 - ⭐ Hobby : `coding & ETC.`
-- <img src="https://imgs.search.brave.com/WOeYKQI_FplYCjIEC2HqMoBkSy_zWtZSDFHNxnxyROo/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly93d3cu/ZG93bmxvYWRjbGlw/YXJ0Lm5ldC9sYXJn/ZS94Ym94LXBuZy1w/aWN0dXJlLnBuZw" title="Xbox" alt="Xbox" width="20" height="20"/>&nbsp; Xbox : [`wuwShPain`](https://account.xbox.com/en-us/profile?gamertag=wuwShPain)
+- <img src="https://imgs.search.brave.com/dwDLTvAner6mjAuj64pg2I_hMBZQbC0corI8sX7hOlE/rs:fit:128:128:1/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/Mzg3X1hib3hfbG9n/by0xMjgucG5n" title="Xbox" alt="Xbox" width="23" height="23"/>&nbsp; Xbox : [`wuwShPain`](https://account.xbox.com/en-us/profile?gamertag=wuwShPain)
 
 - <img src="https://imgs.search.brave.com/ij3t5KLpcnSaGFABUAAdPh9IARp5fsbQSBZBRQC7UWE/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9sb2dv/cy1kb3dubG9hZC5j/b20vd3AtY29udGVu/dC91cGxvYWRzLzIw/MTYvMDkvR2l0SHVi/X2xvZ28ucG5n" title="Github" alt="Github" width="22" height="22"/>&nbsp; Github : [`wuw-sh`](https://github.com/wuw-sh)
 
