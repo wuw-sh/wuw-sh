@@ -1,12 +1,9 @@
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"   alt=""/></p>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=wuw6248&style=flat-square&color=blue" alt=""></p>
-
-### &nbsp;About Me 👑 :
+## &nbsp;_About Me 👑_
 
 I am a TypeScript Developer from Thailand.
 
-- ⚡ Name : `pain` or `top`
-- 🍉 Age : `15` Year
+- 🔖 Name : `pain` or `top`
+- ⏳ Age : `15`
 - 👦 Gender : `male`
 - 👨‍🎓 Grade : `secondary high school 4`
 - ⭐ Hobby : `coding & ETC.`
@@ -49,3 +46,4 @@ Visaul Studio Code" width="40" height="40"/>&nbsp;
 </p>
 
 ---
+<p align="center"><img src="https://komarev.com/ghpvc/?username=wuw6248&style=flat-square&color=blue" alt=""></p>
