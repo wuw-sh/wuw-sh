@@ -32,8 +32,8 @@
   
 <p>
 <img src="https://imgs.search.brave.com/nBKhAEzefUeVMP8ozvE1Y_QPeOPM3aYVqqB8ls3gock/rs:fit:1024:1024:1/g:ce/aHR0cDovL2xvZ29u/b2lkLmNvbS9pbWFn/ZXMvaW50ZWxsaWot/aWRlYS1sb2dvLnBu/Zw" title="
-IntelliJ IDEA" alt="
-IntelliJ IDEA" width="40" height="40"/>&nbsp;
+IntelliJ IDEA Ultimate" alt="
+IntelliJ IDEA Ultimate" width="40" height="40"/>&nbsp;
 <img src="https://imgs.search.brave.com/vR2Ua48MUce2M3q0YuKZCLrdsql1_UVBIZkN8OH2WR8/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jZG4u/aW5mbGVhcm4uY29t/L3dwLWNvbnRlbnQv/dXBsb2Fkcy9weWNo/YXJtLnBuZw" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
 <img src="https://imgs.search.brave.com/Ti6se0m0BdQADmxoQ-x2y7wkj4sW7e-8rKlay3N1qH8/rs:fit:192:192:1/g:ce/aHR0cHM6Ly9waWNz/LmNvbXB1dGVyYmFz/ZS5kZS85LzkvMi8z/LzAtZTM2ZjgwNTY3/MWMzYjk4MC9sb2dv/LTE5Mi4yODMzNzY0/ZC5wbmc" title="
 Visaul Studio 2022" alt="
