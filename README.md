@@ -1,12 +1,11 @@
-## &nbsp;**About Me 👑**
-### <img src="https://imgs.search.brave.com/xTQ29gBRF9roy2bvb10t8iUT96qFYmNsXuM09lrHM34/rs:fit:600:600:1/g:ce/aHR0cHM6Ly93d3cu/Y2xrZXIuY29tL2Ns/aXBhcnRzL1MvaC9G/L3EvYy9EL2luZm8t/aGkucG5n" title="Informations" alt="Informations" width="35" height="35"/>&nbsp; &nbsp;Informations :
+## **About Me 👑**
   **TypeScript Developer from Thailand.**
 - 💳 **Name** : `pain` or `top`
 - ⏳ **Age** : `16`
 - 👨 **Gender** : `male`
 - 👨‍🎓 **Grade** : `secondary high school 5`
 - ⭐ **Hobby** : `coding & ETC.`
-### <img src="https://imgs.search.brave.com/AsLxQu_-aIpiQehPo2nEQXuZ5HcIxHIIWw4__DWZrEk/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4z/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvY29sb3JmdWwt/Z3VhY2hlLXNvY2lh/bC1tZWRpYS1sb2dv/cy0xLzE1OS9zb2Np/YWwtbWVkaWFfd2Vi/LTUxMi5wbmc" title="Socials" alt="Socials" width="35" height="35"/>&nbsp; &nbsp;Socials :
+### Socials
 - <img src="https://imgs.search.brave.com/dwDLTvAner6mjAuj64pg2I_hMBZQbC0corI8sX7hOlE/rs:fit:128:128:1/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/Mzg3X1hib3hfbG9n/by0xMjgucG5n" title="Xbox" alt="Xbox" width="23" height="23"/>&nbsp; Xbox : [`wuwShPain`](https://account.xbox.com/en-us/profile?gamertag=wuwShPain)
 
 - <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" title="Github" alt="Github" width="22" height="22"/>&nbsp; Github : [`wuw-sh`](https://github.com/wuw-sh)
