@@ -14,8 +14,6 @@
 
 - <img src="https://imgs.search.brave.com/RcW5nBXfdSmfbQ0d-CmIjDc8cV9hl-l42NCNlJCm6os/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9zZ3Vy/dS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDIvRmFj/ZWJvb2stUE5HLUlt/YWdlLTcxMjQ0LnBu/Zw" title="Facebook" alt="Facebook" width="19" height="19"/>&nbsp; Facebook : [`Wuw Sh Pain`](https://www.facebook.com/profile.php?id=100024781637005)
 
-- <img src="https://imgs.search.brave.com/Ai3xC6YMdalbmk3y0u9t2ub2UxM4MCqVubuPmwPM1WE/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMtbmEuc3NsLWlt/YWdlcy1hbWF6b24u/Y29tL2ltYWdlcy9J/LzYxR2JZdktGbFZM/LnBuZw" title="Omlet Arcade" alt="Omlet Arcade" width="20" height="20"/>&nbsp; Omlet Arcade : [`wuw.sh`](https://omlet.gg/profile/wuw.sh)
-
 ---
 
 ### **Programming Languages**
