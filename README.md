@@ -28,7 +28,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C-Sharp" alt="C-Sharp" width="42" height="42"/>&nbsp;
   </p>
   
-### <img src="https://imgs.search.brave.com/JA99k40TJTWjNfiWDJ5RYYw5VZ3lyfE6cox9GCLVwBE/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4x/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvd2ViLWRlc2ln/bi1hbmQtZGV2ZWxv/cG1lbnQtMS0yLzUx/Mi8zOC01MTIucG5n" title="Programming Tools" alt="Programming Tools" width="35" height="35"/> **Programming Tools**
+### **Programming Tools**
   
 <p>
 <img src="https://imgs.search.brave.com/nBKhAEzefUeVMP8ozvE1Y_QPeOPM3aYVqqB8ls3gock/rs:fit:1024:1024:1/g:ce/aHR0cDovL2xvZ29u/b2lkLmNvbS9pbWFn/ZXMvaW50ZWxsaWot/aWRlYS1sb2dvLnBu/Zw" title="
