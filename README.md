@@ -4,7 +4,7 @@
 - 💳 **Name** : `pain` or `top`
 - ⏳ **Age** : `16`
 - 👨 **Gender** : `male`
-- 👨‍🎓 **Grade** : `secondary high school 4`
+- 👨‍🎓 **Grade** : `secondary high school 5`
 - ⭐ **Hobby** : `coding & ETC.`
 ### <img src="https://imgs.search.brave.com/AsLxQu_-aIpiQehPo2nEQXuZ5HcIxHIIWw4__DWZrEk/rs:fit:512:512:1/g:ce/aHR0cHM6Ly9jZG4z/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvY29sb3JmdWwt/Z3VhY2hlLXNvY2lh/bC1tZWRpYS1sb2dv/cy0xLzE1OS9zb2Np/YWwtbWVkaWFfd2Vi/LTUxMi5wbmc" title="Socials" alt="Socials" width="35" height="35"/>&nbsp; &nbsp;Socials :
 - <img src="https://imgs.search.brave.com/dwDLTvAner6mjAuj64pg2I_hMBZQbC0corI8sX7hOlE/rs:fit:128:128:1/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/Mzg3X1hib3hfbG9n/by0xMjgucG5n" title="Xbox" alt="Xbox" width="23" height="23"/>&nbsp; Xbox : [`wuwShPain`](https://account.xbox.com/en-us/profile?gamertag=wuwShPain)
