@@ -6,7 +6,7 @@
 - 👨‍🎓 **Grade** : `secondary high school 5`
 - ⭐ **Hobby** : `coding & ETC.`
 ### Socials
-- <img src="https://imgs.search.brave.com/dwDLTvAner6mjAuj64pg2I_hMBZQbC0corI8sX7hOlE/rs:fit:128:128:1/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/Mzg3X1hib3hfbG9n/by0xMjgucG5n" title="Xbox" alt="Xbox" width="23" height="23"/>&nbsp; Xbox : [`wuwShPain`](https://account.xbox.com/en-us/profile?gamertag=wuwShPain)
+- <img src="https://imgs.search.brave.com/dwDLTvAner6mjAuj64pg2I_hMBZQbC0corI8sX7hOlE/rs:fit:128:128:1/g:ce/aHR0cHM6Ly9jZG40/Lmljb25maW5kZXIu/Y29tL2RhdGEvaWNv/bnMvbG9nb3MtYW5k/LWJyYW5kcy81MTIv/Mzg3X1hib3hfbG9n/by0xMjgucG5n" title="Xbox" alt="Xbox" width="23" height="23"/>&nbsp; Xbox : [`Wuw Sh`](https://account.xbox.com/en-us/profile?gamertag=wuwShPain)
 
 - <img src="https://www.iconsdb.com/icons/preview/white/github-11-xxl.png" title="Github" alt="Github" width="22" height="22"/>&nbsp; Github : [`wuw-sh`](https://github.com/wuw-sh)
 
