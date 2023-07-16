@@ -12,7 +12,7 @@
 
 - <img src="https://imgs.search.brave.com/Lh3Jd1lMq38Zi5xeGFs2Yt8nddBASMDyjCZpshserbw/rs:fit:1200:1200:1/g:ce/aHR0cHM6Ly9jbGlw/YXJ0LmluZm8vaW1h/Z2VzL2Njb3ZlcnMv/MTU5MDQzMDY1MnJl/ZC15b3V0dWJlLWxv/Z28tcG5nLXhsLnBu/Zw" title="YouTube" alt="YouTube" width="21" height="14"/>&nbsp; YouTube : [`wuw-sh`](https://m.youtube.com/channel/UCT940bL6xp9HUJ0toiTkxrQ)
 
-- <img src="https://imgs.search.brave.com/RcW5nBXfdSmfbQ0d-CmIjDc8cV9hl-l42NCNlJCm6os/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9zZ3Vy/dS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDIvRmFj/ZWJvb2stUE5HLUlt/YWdlLTcxMjQ0LnBu/Zw" title="Facebook" alt="Facebook" width="19" height="19"/>&nbsp; Facebook : [`Wuw Sh Pain`](https://www.facebook.com/profile.php?id=100024781637005)
+- <img src="https://imgs.search.brave.com/RcW5nBXfdSmfbQ0d-CmIjDc8cV9hl-l42NCNlJCm6os/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9zZ3Vy/dS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDIvRmFj/ZWJvb2stUE5HLUlt/YWdlLTcxMjQ0LnBu/Zw" title="Facebook" alt="Facebook" width="19" height="19"/>&nbsp; Facebook : [`Wuw Sh`](https://www.facebook.com/profile.php?id=100024781637005)
 
 ---
 
