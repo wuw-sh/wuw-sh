@@ -1,6 +1,6 @@
 ## **About Me 👑**
   **TypeScript Developer from Thailand.**
-- 💳 **Name** : `pain` or `top`
+- 💳 **Name** : `top`
 - ⏳ **Age** : `16`
 - 👨 **Gender** : `male`
 - 👨‍🎓 **Grade** : `secondary high school 5`
