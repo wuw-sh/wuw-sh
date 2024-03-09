@@ -14,7 +14,7 @@
 
 - <img src="https://imgs.search.brave.com/RcW5nBXfdSmfbQ0d-CmIjDc8cV9hl-l42NCNlJCm6os/rs:fit:1000:1000:1/g:ce/aHR0cHM6Ly9zZ3Vy/dS5vcmcvd3AtY29u/dGVudC91cGxvYWRz/LzIwMTgvMDIvRmFj/ZWJvb2stUE5HLUlt/YWdlLTcxMjQ0LnBu/Zw" title="Facebook" alt="Facebook" width="19" height="19"/>&nbsp; Facebook : [`Wuw Shza`](https://www.facebook.com/profile.php?id=61551764069535)
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" title="Stack Overflow" alt="Stack Overflow" width="19" height="19"/>&nbsp; Stack Overflow : [`wuw.sh`](https://stackoverflow.com/users/15886746/wuw-sh?tab=profile)
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" title="Stack Overflow" alt="Stack Overflow" width="22" height="22"/>&nbsp; Stack Overflow : [`wuw.sh`](https://stackoverflow.com/users/15886746/wuw-sh?tab=profile)
 
 ---
 
